@@ -42,7 +42,7 @@ Vamos a comparar el precio entre web hosting y cloud hosting durante un tiempo d
 Para el web hosting hemos seleccionado [b2evolution <sup>El * de b2evolution es que el primer mes te cobran 30 € y el resto 60 €.
 </sup>] (http://b2evolution.net/web-hosting/dedicated-servers.php)
 
-![img](http://sli.mg/kL0Y38)
+![img](https://i.sli.mg/kL0Y38.png)
 
 y para el cloud hosting [VMWare](http://vcloud.vmware.com/service-offering/pricing-calculator/on-demand)
 ![img](https://i.sli.mg/FsUS9d.png)

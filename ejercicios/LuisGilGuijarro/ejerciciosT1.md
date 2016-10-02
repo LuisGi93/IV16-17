@@ -45,6 +45,7 @@ Para el web hosting hemos seleccionado [b2evolution <sup>El * de b2evolution es 
 ![img](https://i.sli.mg/kL0Y38.png)
 
 y para el cloud hosting [VMWare](http://vcloud.vmware.com/service-offering/pricing-calculator/on-demand)
+
 ![img](https://i.sli.mg/FsUS9d.png)
 
 

@@ -31,3 +31,51 @@ Por tanto tendríamos que pagar:
  
 * 2016, 2017, 2018, 2019, 2020, 2021, 2022 : 135.15 € anuales
 
+## Ejercicio nº2
+
+
+
+Vamos a comparar el precio entre web hosting y cloud hosting durante un tiempo de un año.
+
+
+
+Para el web hosting hemos seleccionado [b2evolution <sup>El * de b2evolution es que el primer mes te cobran 30 € y el resto 60 €.
+</sup>] (http://b2evolution.net/web-hosting/dedicated-servers.php)
+
+![img](https://i.sli.mg/vEsNT8.png)
+
+y para el cloud hosting [VMWare](http://vcloud.vmware.com/service-offering/pricing-calculator/on-demand)
+![img](https://sli.mg/FsUS9d)
+
+
+### Uso: 1%.
+B2evolution te va a cobrar lo mismo lo uses lo que lo uses por tanto un año son:
+
+* 30 € primer mes + 60€ * 11 meses = 690€.
+
+VMWare utilizando tecnología similar:
+*   12 meses * 40€/mes = 480 €
+
+Web hosting es un 43% más caro.
+
+### Uso: 10%.
+ 
+ B2evolution sigue igual: 
+
+* 30 € primer mes + 60€ * 11 meses = 690€.
+
+Al introducir el nuevo % de utilización en VMWare obtenemos:
+
+* 12 meses  * 47.77€/mes = 573.24 €.
+
+![img](https://sli.mg/P7v4NX)
+
+
+Ahora web hosting sale un 20% más caro. Destacar que VMWare te ofrece IP pública lo cual encarece el precio compara con otros competidores que no estoy seguro de si te lo ofrecen.
+
+ 
+
+
+
+
+

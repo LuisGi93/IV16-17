@@ -19,6 +19,7 @@ Coste de amortizacion a *4 años* considerando que comprobamos el servidor a pri
 Por tanto tendríamos que pagar:
 
 * 2016, 2017, 2018, 2019 : 236.5 € anuales
+
 ### Amortización a 7 años.
 
 

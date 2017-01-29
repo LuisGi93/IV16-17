@@ -266,29 +266,93 @@ Ejercicios tema 4 [enlace](https://github.com/Miguelmoral/IVejercicios/blob/mast
 - [x] Trabajar con varias imágenes de docker comectadas.
 
 
-###Sesion 11 (Semana del 1 al 6 de Diciembre)
+###Sesión 11 (Semana del 1 al 6 de Diciembre)
 
-- [ ] 	Comprender el concepto de hipervisor y los diferentes tipos que hay.
+[Ejercicios del tema 5](https://github.com/Miguelmoral/IVejercicios/blob/master/ejerciciostema5.md)
 
-####Otros objetivos
-
-- [ ] 	Instalar hipervisores libres y trabajar con ellos.
-- [ ] 	Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
-- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] 	Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
 ####Otros objetivos
 
-- [ ] Instalar hipervisores libres y trabajar con ellos.
-- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] 	Instalar hipervisores libres y trabajar con ellos.
+- [x] 	Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+####Otros objetivos
+
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
 ####Objetivos temario de teoría
 
-- [ ] 	Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] 	Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
 
-- [ ] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
 
-- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
 
-- [ ] Documentar y mantener una plataforma virtual.
+- [x] Documentar y mantener una plataforma virtual.
 
-- [ ] Realizar tareas de administración de infraestructuras virtuales.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+
+
+###Sesión 12 (Semana del 15 al 21 de Diciembre)
+
+- [x]	Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+
+- [ ]	Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+
+- [x]	Entender los conceptos de los servicios en la nube.
+
+- [x]	Entender el concepto de provisionamiento.
+
+####Otros objetivos
+
+- [x]	Instalar clientes de servicios en la nube.
+
+- [x]	Entender temas de seguridad de la información relacionados con los servicios en la nube.
+
+- [ ]	Hacer pruebas de provisionamiento de servicios en la nube.
+
+
+####Objetivos temario de teoría
+
+- [x]	Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+
+- [x]	Documentar y mantener una plataforma virtual.
+
+- [ ]	Realizar tareas de administración en infraestructura virtual.
+
+
+####Objetivos específicos
+
+- [x]	Aprender lenguajes de configuración usados en infraestructuras virtuales.
+
+- [x]	Saber cómo aplicarlos en un caso determinado.
+
+- [ ]	Conocer los sistemas de gestión de la configuración, provisionamiento y monitorizació más usados hoy en día.
+
+
+###Sesión 13 (Semana del 22 de Diciembre)
+
+[Ejercicios del tema 6](https://github.com/Miguelmoral/IVejercicios/blob/master/ejerciciostema6.md)
+
+- [x]	Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+####Otros objetivos
+
+- [ ]	Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+
+###Sesión 14 (Semana del 14 al 18 de Enero)
+
+- [x]	Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+####Otros objetivos
+
+- [x]	Decidir si se hace un hackatón de proyecto, si se va a hacer presentación del mismo y una serie de temas relacionados con ello.
+
+
+###Sesión 15 (semana del 21 de Enero)
+
+- [x]	Resolver dudas relativas a la entrega del hito final de la asignatura

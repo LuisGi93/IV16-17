@@ -165,3 +165,61 @@
 - [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
 - [x] Crear infraestructuras virtuales completas.
 - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+
+##Tema 5. Virtualización completa: uso de máquinas virtuales
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+
+##Duodécima semana (15 de Diciembre)
+
+**Objetivos**
+
+- [x] Ver las diferencias entre hipervisores y buscar el más adecuado para una tarea.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+**Otros objetivos**
+
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+##Tema 6. Gestión de infraestructuras virtuales
+
+**Objetivos de la asignatura**
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración en infraestructura virtual.
+
+**Objetivos específicos**
+
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorizació más usados hoy en día.
+
+##Décimo tercera semana (22 de Diciembre)
+
+**Objetivos de la asignatura**
+
+- [x] Entender cómo la definición de infraestructura virtual encaja en metodologías ágiles de desarrollo y la relación de las mismas con el concepto de DevOps teams.
+
+**Objetivos adicionales**
+
+- [ ] Participar en una experiencia real de desarrollo ágil, con personal con experiencia. Inscribirse en Meetup y preparar un equipo para participar en el hackatón de por la tarde.
+
+##Décimo cuarta semana, (14 de enero de 2017)
+
+**Objetivos de la asignatura**
+
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+
+##Décimoquinta semana, (21 de enero de 2017)
+
+**Objetivos de la asignatura**
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
